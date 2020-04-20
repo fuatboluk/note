@@ -20,6 +20,9 @@
 
 ## Compilation Dependencies
 
-gcc
-pkg-config
-libdb-devel
+
+*  gcc
+
+*  pkg-config
+
+*  libdb-devel
