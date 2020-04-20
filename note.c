@@ -1,4 +1,4 @@
-// Author: Fuat Bölük <fuat@fuxproject.org>
+// Author: Fuat Bölük <mektup@fuatboluk.com.tr>
 
 
 #include "db.h"
