@@ -17,6 +17,7 @@
     	note -g <group> -r <name>
     	note -g <group> -d <name>
     	note -g <group> -w <name> -c <content>
+    
 
 ## Compilation Dependencies
 
