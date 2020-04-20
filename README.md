@@ -29,22 +29,20 @@
 
 ## Compilation on Linux
 
-Open a Terminal
+**Open a Terminal**
 
 `git clone https://gitlab.com/fuatboluk/note.git`
 
-Change Directory
+**Change Directory**
 
 `cd note`
 
-Compile
+**Compile**
 
 `make`
 
-Install
+**Install**
 
 `sudo make install`
 
-
-
-
+**Happy Usages For All :)**
