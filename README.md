@@ -26,3 +26,6 @@
 *  pkg-config
 
 *  libdb-devel
+
+## Compilation on Linux
+
