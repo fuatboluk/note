@@ -3,7 +3,7 @@
     Note - Write, Read, Delete, and List Notes by Group
 
     Options:
-	    -h | --help	    program usage
+	    -h | --help	        program usage
 	    -g | --group	used with the all option
 	    -c | --content	used only with the write option
 
