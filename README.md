@@ -13,10 +13,10 @@
         -l | --list         list notes in group     | key or all
 
     Usage  :
-    	note -g <group> -l all
-    	note -g <group> -r <name>
-    	note -g <group> -d <name>
-    	note -g <group> -w <name> -c <content>
+    note -g <group> -l all
+    note -g <group> -r <name>
+    note -g <group> -d <name>
+    note -g <group> -w <name> -c <content>
 
 
 ## Compilation Dependencies
