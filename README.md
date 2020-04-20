@@ -1,9 +1,9 @@
 # note
-"
+
     Note - Write, Read, Delete, and List Notes by Group
 
     Options:
-	    -h | --help	program usage
+	    -h | --help	    program usage
 	    -g | --group	used with the all option
 	    -c | --content	used only with the write option
 
@@ -17,4 +17,3 @@
     	note -g <group> -r <name>
     	note -g <group> -d <name>
     	note -g <group> -w <name> -c <content>
-"
